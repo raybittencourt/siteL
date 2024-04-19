@@ -40,3 +40,12 @@ body {
 .escola-div-conteudo{
     width: 35%;
 }
+
+.escola_2{
+    background-image: linear-gradient(#008cff,#001aff);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
